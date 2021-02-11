@@ -1,0 +1,23 @@
+{
+  "name": "pixelson",
+  "version": "1.0.0",
+  "description": "Extracts pixels from an individual image and returns a JSON. For internal use only.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloro-official/pixelson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloro-official/pixelson/issues"
+  },
+  "homepage": "https://github.com/cloro-official/pixelson#readme",
+  "dependencies": {
+    "fs-extra": "^9.1.0",
+    "jimp": "^0.16.1"
+  }
+}
